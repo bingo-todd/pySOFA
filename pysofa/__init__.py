@@ -1,1 +1,1 @@
-from sofa import SOFA
+from .sofa import SOFA
